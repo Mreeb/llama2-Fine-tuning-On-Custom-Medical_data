@@ -18,3 +18,7 @@ Patient Education: It can assist in educating patients about skin health, suitab
 Fine-Tuning Benefits: The model's fine-tuning process enhances its performance, making it a valuable tool for healthcare professionals, researchers, and individuals seeking information and guidance on skin-related medical topics.
 
 This customized model is well-suited for a range of applications within the field of dermatology, including virtual dermatology consultations, patient education, and assisting healthcare providers in making informed decisions regarding skin health. It is designed to be a valuable resource for accurate and reliable information about skin conditions and related medical matters.
+
+
+# Version 1
+https://huggingface.co/Mreeb/Medi-llama-2-7b-custom100

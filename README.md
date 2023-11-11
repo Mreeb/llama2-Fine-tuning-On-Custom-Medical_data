@@ -26,3 +26,5 @@ https://huggingface.co/Mreeb/Medi-llama-2-7b-custom100
 https://huggingface.co/Mreeb/Medi-llama-2-7b-custom1000
 ![Screenshot from 2023-11-10 02-55-46](https://github.com/Mreeb/llama2-Fine-tuning-On-Custom-Medical_data/assets/103059817/b1cc953e-25d0-4e2b-a048-a84b60a19299)
 
+# Explore the Dataset Here:
+https://www.kaggle.com/datasets/muhammadareebkhan/skin-disease-medical-text-data-for-fine-tuning/data
